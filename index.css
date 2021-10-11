@@ -140,7 +140,7 @@ section .title::after{
 }
 .home .home-content .text-2{
     font-size: 70px;
-    font-family: 600;
+    /* font-family: 'Poppins', sans-serif; */
     margin-left: -3px; 
 }
 .home .home-content .text-3{
@@ -367,10 +367,10 @@ footer{
     color:#fff;
     text-align: center;
 }
-footer span a{
+footer p a{
     color:crimson;
 }
-footer span a:hover{
+footer p a:hover{
     text-decoration: underline;
 }
 
@@ -431,6 +431,14 @@ footer span a:hover{
     .contact .contact-content .right i{
         font-size: 20;
     }
+    footer p{
+        font-size: small;
+    }
+     .projects .max-width{
+        padding: 15px;
+    } 
+    
+    
     
 }
 
