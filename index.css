@@ -321,10 +321,10 @@ section .title::after{
 .projects .projects-content .card .box{
     transition: all 0.3s ease;
 }
-.projects .projects-content .card .box:hover{
+/* .projects .projects-content .card .box:hover{
     transform: scale(1.05);
 
-}
+} */
 
 /* contacts section */
 
